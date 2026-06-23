@@ -52,4 +52,4 @@ sms-spam-classifier/
 ├── Dockerfile            # Container replication layer configurations
 └── requirements.txt      # Production environment package array
 
-### 🎯 **Deployment URL:** - https://sms-phishing-detector.onrender.com
+🎯 **Deployment URL:** - 'https://sms-phishing-detector.onrender.com'
