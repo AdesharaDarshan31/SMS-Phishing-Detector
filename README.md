@@ -34,6 +34,8 @@ The application coordinates an intersecting defensive stack to analyze text payl
 
 ---
 
+🎯 Deployment URL: https://sms-phishing-detector.onrender.com
+
 ## 📂 Project Repository Structure
 
 ```text
@@ -54,4 +56,4 @@ sms-spam-classifier/
 
 ---
 
-🎯 **Deployment URL:** - 'https://sms-phishing-detector.onrender.com'
+🎯 Deployment URL: https://sms-phishing-detector.onrender.com
