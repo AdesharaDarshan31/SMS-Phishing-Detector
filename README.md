@@ -34,7 +34,11 @@ The application coordinates an intersecting defensive stack to analyze text payl
 
 ---
 
+
+
 🎯 Deployment URL: https://sms-phishing-detector.onrender.com
+
+
 
 ## 📂 Project Repository Structure
 
@@ -53,7 +57,3 @@ sms-spam-classifier/
 ├── predict.py            # Local terminal diagnostic sandbox interface
 ├── Dockerfile            # Container replication layer configurations
 └── requirements.txt      # Production environment package array
-
----
-
-🎯 Deployment URL: https://sms-phishing-detector.onrender.com
