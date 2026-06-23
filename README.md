@@ -36,6 +36,7 @@ The application coordinates an intersecting defensive stack to analyze text payl
 
 ## 📂 Project Repository Structure
 
+```text
 sms-spam-classifier/
 ├── src/
 │   ├── pipeline.py       # Vector cleaning and NLP transformation pipelines
